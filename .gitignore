@@ -1,0 +1,6 @@
+.idea
+*.DS_Store
+other
+__pycache__
+data
+models
